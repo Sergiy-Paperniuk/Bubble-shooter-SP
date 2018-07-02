@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Release|Win32|E:\CPP_training\GLSL_training\GLSL_training\3rdPartyLibs\glew-2.1.0\build\vc12\|
