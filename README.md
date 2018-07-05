@@ -5,7 +5,7 @@
 
 ## Technical information
 | Operating system  |  Windows |
-| :------------- | ------------- |
+| :------------- | :------------- |
 | **App type** | **Windows desktop (Native code)** |
 | **Bitness** | **32 bit code (also can run on Win64)** |
 | **Programming language** | **C++** |
